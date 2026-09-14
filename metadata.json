@@ -1,0 +1,6 @@
+{
+  "name": "Reshma Tex - Textile & Fabric Manufacturer",
+  "description": "Global textile, fabric, and garment manufacturing platform with interactive 3D weave explorer, comprehensive fabric catalog, sustainable mills showcase, and B2B RFQ system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
